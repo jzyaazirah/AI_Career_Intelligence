@@ -4,7 +4,7 @@ import subprocess
 import sys
 subprocess.check_call([sys.executable,"-m","pip","install","pdfminer.six"])
 
-from pdfminer.high_level import extract_text
+from pdfminer.six import extract_text
 import pandas as pd
 import json
 
@@ -45,4 +45,5 @@ if uploaded_file:
     # Show jobs table
     st.subheader("Job Opportunities")
     st.table(jobs_df)
+
 
