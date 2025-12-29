@@ -1,0 +1,6 @@
+Role,Company,Salary,Link
+Data Analyst,ABC Corp,5 LPA,https://abc.com/apply
+Backend Developer,XYZ Ltd,8 LPA,https://xyz.com/apply
+ML Engineer,ML Tech,10 LPA,https://mltech.com/apply
+Frontend Developer,WebWorks,6 LPA,https://webworks.com/apply
+Full Stack Developer,TechSolutions,9 LPA,https://techsolutions.com/apply

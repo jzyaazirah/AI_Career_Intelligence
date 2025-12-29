@@ -1,0 +1,7 @@
+{
+  "Data Analyst": ["Python", "SQL", "Data Analysis", "Excel", "Tableau"],
+  "Backend Developer": ["Python", "Flask", "Django", "APIs", "SQL"],
+  "ML Engineer": ["Python", "Machine Learning", "TensorFlow", "PyTorch", "Data Analysis"],
+  "Frontend Developer": ["HTML", "CSS", "JavaScript", "React", "UI/UX"],
+  "Full Stack Developer": ["Python", "JavaScript", "Flask", "React", "SQL"]
+}
